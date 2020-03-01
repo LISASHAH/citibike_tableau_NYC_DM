@@ -11,7 +11,10 @@ Usually the bikers may be picking up coffee from McDonalds on their way and henc
 If we compare working age group and number of bike rides its around one out of two people use citibike once in a month. Weather could also be a factor to decide if people will take bike riding or not. 
 Data also shows that overall male use more bikes then female
 ![NYC1](images/NYC1.png)
+In the above chart I am comparing the most busy bike stations with McDonalds. It seems the bikes are more used where there are McDonalds. McDonalds could be due to more businesses and the bikes are used by commuters.So that conveys that it will be a good idea to locate new bike stations near to areas with McDonalds.
+
 ![NYC2](images/NYC2.png)
+The above sheets give various statics about New York like Riders by Gender, User Type, Age Group. This will help us estimate our future business in Des Moines. 
 
 # Why Des Moines Citi Bike
 ## Question I am trying to answer are 
@@ -20,31 +23,36 @@ Data also shows that overall male use more bikes then female
 
 Des Moines is a large city in Iowa. There are many jobs in this city and people usually stay in suburbs and commute to Des Moines for work. There is a public bus transportation available in Des Moines. There are many visiting places near to this city.
 
-### Favorable weather
-Des Moines weather is similar to NYC. average 200+ days are sunny here and rain is much less then NYC. So overall the weather is favorable for biking. 
-Data from https://www.bestplaces.net/climate/?c1=53651000&c2=51921000
-
+![DM2NYC](images/DM2NYC.png)
 ### Cost of Living
 The mediuen income per household for both the cities is quite similar as per census data but cost of living in Des Moines is way lower then NYC. Hence the spening power of people is much more. This leaves them with more money to spend of hobbies and biking could be one of those. Data from https://www.census.gov/quickfacts/desmoinescityiowa
 
 ### Education
 As per census data the education level in NYC and Des Moines is the same and this says the people in Des Moines will be equally health concious as NYC and they will prefer using bikes. Data from https://www.census.gov/quickfacts/desmoinescityiowa
 
+### Mc Donald Location
+The location for Mc Donalds is also similarly ploted as NYC and hence the businesses may be more densely located there.
+
+### Favorable weather
+Des Moines weather is similar to NYC. average 200+ days are sunny here and rain is much less then NYC. So overall the weather is favorable for biking. 
+Data from https://www.bestplaces.net/climate/?c1=53651000&c2=51921000
+
 ### Things to do
 There are many things to do here and with favorable weather people will like to rent a bike and do the outdoor activities
 link https://www.catchdesmoines.com/things-to-do/
 
-![DM2NYC](images/DM2NYC.png)
 
 # Des Moines Proposal
 ![DM1](images/DM1.png)
+To conclude Des Moines will be an ideal location for new bike rental business. Most of the data points that were analysed match with NYC where the business is well established. Below is the proposal.
+
 ### Bike Station near Mc Donalds
 We propose to open bike stations near to Mc Donalds as that is observed that people bike more around Mc Donalds in NYC
 
 ### Smaller business then NYC
 The population of Des Moines is way lower then NYC and hence the expected bike rides will also be low. So we should analyse further to find what will be best number of bikes and stations proposed. This will be less investment over NYC.
 
-### The Gender ratio
+### Gender ratio
 The gender ratio in NYC and Des Moines is the same and hence that will not impact the number of riders
 
 ### Duration of Rental
@@ -52,7 +60,7 @@ The duration of rental may be longer as the environment in Des Moines is more re
 
 
 
-## Data used
+## Data used from
 https://www.catchdesmoines.com/things-to-do/
 https://www.bestplaces.net/cost-of-living/new%20york_ny/des%20moines_ia/50000
 https://data.census.gov/cedsci/table?q=New%20York%20city,%20New%20York%20Populations%20and%20People&tid=ACSST1Y2018.S0101
