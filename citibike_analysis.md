@@ -1,6 +1,6 @@
 # Link for Tableau public for this analysis is
 
-https://public.tableau.com/profile/lisa3634#!/vizhome/ChallengeCitibikeDesMoines/CitibikeinDesMoines?publish=yes
+[link to dashboard](https://public.tableau.com/profile/lisa3634#!/vizhome/ChallengeCitibikeDesMoines/CitibikeinDesMoines?publish=yes)
 
 # NYC Citi Bike Analysis 
 
