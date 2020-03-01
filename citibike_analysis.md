@@ -44,15 +44,15 @@ We propose to open bike stations near to Mc Donalds as that is observed that peo
 ### Smaller business then NYC
 The population of Des Moines is way lower then NYC and hence the expected bike rides will also be low. So we should analyse further to find what will be best number of bikes and stations proposed. This will be less investment over NYC.
 
-### The Gender ration
-The gender ration in NYC and Des Moines is the same and hence that will not impact the number of riders
+### The Gender ratio
+The gender ratio in NYC and Des Moines is the same and hence that will not impact the number of riders
 
 ### Duration of Rental
 The duration of rental may be longer as the environment in Des Moines is more relaxed. This will make more profit
 
 
 
-## Data used from
+## Data used
 https://www.catchdesmoines.com/things-to-do/
 https://www.bestplaces.net/cost-of-living/new%20york_ny/des%20moines_ia/50000
 https://data.census.gov/cedsci/table?q=New%20York%20city,%20New%20York%20Populations%20and%20People&tid=ACSST1Y2018.S0101
