@@ -37,7 +37,7 @@ link https://www.catchdesmoines.com/things-to-do/
 ![DM2NYC](images/DM2NYC.png)
 
 # Des Moines Proposal
-![DM](images/DM.png)
+![DM1](images/DM1.png)
 ### Bike Station near Mc Donalds
 We propose to open bike stations near to Mc Donalds as that is observed that people bike more around Mc Donalds in NYC
 
